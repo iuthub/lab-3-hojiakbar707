@@ -1,0 +1,40 @@
+body {
+    margin: 1% 10% 0% 10%;
+    background-image: url("http://www.cs.washington.edu/education/courses/190m/09sp/labs/2‐journal/images/background.gif");
+}
+
+#container {
+   border: 10px solid #fff;
+   background-color: #fff;
+}
+
+#header-title {
+    background-color: #A8F0F0;
+}
+
+#header-content {
+    font-size: 14pt;
+}
+
+.body-con {
+    border: 4px solid  #C2E9E9;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.body-con h2 span {
+    border-bottom: 2px dashed cadetblue;
+}
+
+#header-title h2,h1 {
+    text-align: right;
+}
+
+img {
+    float: right;
+    text-align: justify;
+    clear: both;
+    
+}
+
